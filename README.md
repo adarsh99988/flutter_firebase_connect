@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_firebase_connect
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter_firebase_connect
+>>>>>>> aaa354d390af1209db9b78e3f365f590d306403d
